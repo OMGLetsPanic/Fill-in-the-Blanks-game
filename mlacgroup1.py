@@ -1,6 +1,6 @@
 ''' DOCUMENTATION: This script is a "Fill in the Story Blanks" type of game that prints a pre-written
 story depending on what the user enters for all the inputs. 
-It is very simple and does allow the user to stray from the plot. '''
+It is very simple and does not allow the user to stray from the plot. '''
 
 
 first_name = input("What is your name? ") 
