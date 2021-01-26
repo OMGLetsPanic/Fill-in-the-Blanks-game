@@ -2,7 +2,6 @@
 story depending on what the user enters for all the inputs. 
 It is very simple and does not allow the user to stray from the plot. '''
 
-
 first_name = input("What is your name? ") 
 # user must enter their first name
 
@@ -35,7 +34,6 @@ pet_name = input("This animal is now your pet! What's your new pet's name? ")
 
 pet_location = input("You rescued your pet in front of an abandoned building. What type of building was it? ")
 # user tells program where they found the animal
-
 
 print("There once lived a person named", first_name, "who just graduated from", college + ".",  "After accepting a job with",
 company, "as a(n)", job + ",", first_name, "decided to first take a vacation to", foreign + ".", "Upon arriving in", foreign + ",",
