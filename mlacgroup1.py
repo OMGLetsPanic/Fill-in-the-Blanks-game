@@ -44,8 +44,8 @@ pet_name, "lived happily ever after.")
 ''' ATTENTION GROUP PARTNERS, I'd really like ideas and feedback as to how to improve our first project
 together. 
 
-While writing the print script, I found it more convenient and visually appealing to use 
-the "+" operator between certain quotes and variables as opposed to continuously using "," as it made the story very
+While writing the print statement, I found it more convenient and visually appealing to use 
+the "+" operator between certain quotes and strings as opposed to continuously using "," as it made the story very
 frustrating to proofreed and read. 
 
 Any awkward phrasing you guys see? Do you guys wanna just make your own story and scrap this? '''
