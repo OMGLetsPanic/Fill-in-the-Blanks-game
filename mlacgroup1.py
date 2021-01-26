@@ -45,6 +45,6 @@ pet_name, "lived happily ever after.")
 together. 
 
 While writing the print script, I found it more convenient and visually appealing to use 
-the "+" operator as opposed to continuously using "," as it made the story very difficult to proofreed and read. 
+the "+" operator as opposed to continuously using "," as it made the story very frustrating to proofreed and read. 
 
 Any awkward phrasing you guys see? Do you guys wanna just make your own story and scrap this? '''
