@@ -45,7 +45,7 @@ pet_name, "lived happily ever after.")
 together. 
 
 While writing the print statement, I found it more convenient and visually appealing to use 
-the "+" operator between certain quotes and strings as opposed to continuously using "," as it made the story very
+the "+" operator between certain quotes and strings as opposed to continuously typing "," as it made the story very
 frustrating to proofreed and read. 
 
 Any awkward phrasing you guys see? Do you guys wanna just make your own story and scrap this? '''
