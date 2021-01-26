@@ -24,16 +24,16 @@ restaurant = input("Which restaurant would you like to eat at? ")
 activity = input("Pick an activity you want to do! ")
 # user chooses their first activity on vacation after thier meal
 
-activity_2 = input("Pick another activity you do afterwards. ")
+activity_2 = input("Pick another activity you'll do afterwards. ")
 # user chooses another activity to enjoy while travelling
 
 pet = input("You found an animal while traveling! What kind of animal were they? ")
 # user picks an animal to befriend on their vacation
 
-pet_name = input("This animal is now your pet! What's your pet's name? ")
+pet_name = input("This animal is now your pet! What's your new pet's name? ")
 # user enters name of their new pet
 
-pet_location = input("You rescued your pet in front of an abandoned building. What type of building? ")
+pet_location = input("You rescued your pet in front of an abandoned building. What type of building was it? ")
 # user tells program where they found the animal
 
 
